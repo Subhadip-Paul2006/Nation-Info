@@ -17,7 +17,7 @@ This project displays detailed information about countries including population,
 - ⚡ In-memory caching for GDP API calls
 - 📱 Fully responsive design
 
----
+-----
 
 ## 🛠 Tech Stack
 
