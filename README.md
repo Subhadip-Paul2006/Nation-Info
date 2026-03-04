@@ -70,7 +70,7 @@ This installs:
 - postcss
 - autoprefixer
 
----
+-----
 
 ### 3️⃣ Run Development Server
 
