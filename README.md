@@ -225,7 +225,7 @@ Built as a frontend dashboard project to demonstrate:
 - Third-party library integration
 - Real-world data handling
 
----
+-----
 
 ## 📄 License
 
