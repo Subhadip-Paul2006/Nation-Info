@@ -27,7 +27,7 @@ This project displays detailed information about countries including population,
 - **Leaflet.js** – Interactive map integration  
 - **World Bank API** – Live GDP data source  
 
----
+-----
 
 ## 📂 Project Structure
 
