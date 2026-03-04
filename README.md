@@ -55,7 +55,7 @@ git clone <your-repository-url>
 cd Nation-Info
 ```
 
----
+-----
 
 ### 2️⃣ Install Dependencies
 
