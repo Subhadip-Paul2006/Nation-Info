@@ -169,7 +169,7 @@ Example Display:
 GDP (2024): $3.91 Trillion
 ```
 
----
+-----
 
 ## 🧠 How It Works
 
