@@ -87,7 +87,7 @@ Local: http://localhost:5173/
 
 Open the provided URL in your browser.
 
----
+-----
 
 ### 4️⃣ Build for Production
 
