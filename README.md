@@ -125,7 +125,7 @@ Used for:
 
 This is a static JSON dataset (no backend required).
 
----
+-----
 
 ## 2️⃣ World Bank API (Live GDP)
 
