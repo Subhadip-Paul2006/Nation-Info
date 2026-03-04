@@ -101,7 +101,7 @@ To preview production build:
 npm run preview
 ```
 
----
+-----
 
 # 🌐 APIs Used
 
