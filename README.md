@@ -4,7 +4,7 @@ A modern **Country Information Dashboard** built using **Vite + Tailwind CSS + V
 
 This project displays detailed information about countries including population, region, borders, interactive map location, and **live GDP data** fetched from the World Bank API.
 
----
+-----
 
 ## 🚀 Features
 
