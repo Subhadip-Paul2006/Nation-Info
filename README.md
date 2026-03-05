@@ -7,7 +7,6 @@ This project displays detailed information about countries including population,
 -----
 
 ## 🚀 Features
-
 - 🌎 Browse and search countries
 - 📊 View detailed country information
 - 🗺 Interactive map using Leaflet.js
