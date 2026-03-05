@@ -50,7 +50,7 @@ Nation-Info/
 
 ### 1️⃣ Clone the Repository
 
-```bas
+```basH
 git clone <your-repository-url>
 cd Nation-Info
 ```
