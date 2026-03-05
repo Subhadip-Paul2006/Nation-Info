@@ -44,7 +44,7 @@ Nation-Info/
     └── style.css
 ```
 
----
+-----
 
 ## ⚙️ Installation & Setup
 
