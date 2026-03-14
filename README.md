@@ -217,13 +217,7 @@ npm run dev
 
 ## 👨‍💻 Author
 
-Built as a frontend dashboard project to demonstrate:
-
-- API integration
-- Asynchronous rendering
-- State management
-- Third-party library integration
-- Real-world data handling
+made with love From Subh
 
 -----
 
