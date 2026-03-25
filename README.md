@@ -6,10 +6,10 @@ This project displays detailed information about countries including population,
 
 -----
 ## 🚀 Live Demo
-👉 [Click here to view the app](https://subhadip-paul2006.github.io/Nation-Info/)
+👉 [Click here to view the app](https://Subhadip-Paul2006.github.io/Nation-Info/)
 
 <p align="center">
-  <a href="https://[your-username.github.io/nation-info/](https://subhadip-paul2006.github.io/Nation-Info/)">
+  <a href="https://Subhadip-Paul2006.github.io/Nation-Info/">
     <img src="https://img.shields.io/badge/Live%20Demo-Open%20App-green?style=for-the-badge" />
   </a>
 </p>
