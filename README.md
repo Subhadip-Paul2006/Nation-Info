@@ -5,6 +5,15 @@ A modern **Country Information Dashboard** built using **Vite + Tailwind CSS + V
 This project displays detailed information about countries including population, region, borders, interactive map location, and **live GDP data** fetched from the World Bank API.
 
 -----
+## 🚀 Live Demo
+👉 [Click here to view the app](https://subhadip-paul2006.github.io/Nation-Info/)
+
+<p align="center">
+  <a href="https://[your-username.github.io/nation-info/](https://subhadip-paul2006.github.io/Nation-Info/)">
+    <img src="https://img.shields.io/badge/Live%20Demo-Open%20App-green?style=for-the-badge" />
+  </a>
+</p>
+-----
 
 ## 🚀 Features
 
