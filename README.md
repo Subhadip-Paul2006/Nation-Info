@@ -6,13 +6,13 @@ This project displays detailed information about countries including population,
 
 -----
 ## 🚀 Live Demo
-👉 [Click here to view the app](https://Subhadip-Paul2006.github.io/Nation-Info/)
 
 <p align="center">
   <a href="https://Subhadip-Paul2006.github.io/Nation-Info/">
     <img src="https://img.shields.io/badge/Live%20Demo-Open%20App-green?style=for-the-badge" />
   </a>
 </p>
+
 -----
 
 ## 🚀 Features
@@ -64,7 +64,7 @@ git clone <your-repository-url>
 cd Nation-Info
 ```
 
------
+---
 
 ### 2️⃣ Install Dependencies
 
@@ -79,7 +79,7 @@ This installs:
 - postcss
 - autoprefixer
 
------
+---
 
 ### 3️⃣ Run Development Server
 
@@ -96,7 +96,7 @@ Local: http://localhost:5173/
 
 Open the provided URL in your browser.
 
------
+---
 
 ### 4️⃣ Build for Production
 
@@ -110,7 +110,7 @@ To preview production build:
 npm run preview
 ```
 
------
+---
 
 # 🌐 APIs Used
 
@@ -134,7 +134,7 @@ Used for:
 
 This is a static JSON dataset (no backend required).
 
------
+---
 
 ## 2️⃣ World Bank API (Live GDP)
 
